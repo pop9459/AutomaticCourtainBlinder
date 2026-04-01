@@ -2,8 +2,8 @@ from machine import Pin
 import time
 
 # Update these pins to match your wiring
-STEP_PIN = 16
-DIR_PIN = 17
+STEP_PIN = 15
+DIR_PIN = 14
 EN_PIN = None  # Set to None if EN is not connected
 
 # Motion settings
