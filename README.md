@@ -8,4 +8,4 @@ This repository contains the assets and code for the NHL Stenden Computer Scienc
 
 ## Quick Links
 - [Portfolio](portfolio.md)
-- [Master Portfolio Repository](https://github.com/pop9459/P3-Portfolio?tab=readme-ov-file)
+- [Master Portfolio Repository](https://github.com/pop9459/P3-Portfolio)
