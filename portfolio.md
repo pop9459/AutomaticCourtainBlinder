@@ -20,6 +20,7 @@ The project is inspired by a similar project from the youtube channel: "DIY Mach
 ### Schematic
 
 <img src="./schematic.png" alt="schematic" style="max-height: 512px;"/>
+<img src="./fallback_motor_schematic.png" alt="schematic" style="max-height: 512px;"/>
 
 ### Code
 `main.py`
