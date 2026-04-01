@@ -1,7 +1,7 @@
 # Solo Innovator Y1 P3
 - Name: Peter Kapsiar
 - Student ID: 5486866
-- Repository: https://github.com/pop9459/P3-Portfolio
+- Repository: https://github.com/pop9459/AutomaticCourtainBlinder
 
 ### Description
 The project is focused on creating an automated system for opening and closing window courtains. The system uses a raspberry pi pico w microcontroller to control a stepper motor to pull strings attached to the curtains. The system can be controlled via physical buttons or remotely via API endpoints. The whole system is powered by a solar panel and a power bank. 

@@ -4,7 +4,7 @@ This repository contains the assets and code for the NHL Stenden Computer Scienc
 
 - Name: Peter Kapsiar
 - Student ID: 5486866
-- Repository: https://github.com/pop9459/P3-Portfolio
+- Repository: https://github.com/pop9459/AutomaticCourtainBlinder
 
 ## Quick Links
 - [Portfolio](portfolio.md)
