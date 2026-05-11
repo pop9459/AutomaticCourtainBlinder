@@ -1,0 +1,4 @@
+Idea is good in the AI implementation way - learn from habits.
+Track day of the week for opening.
+Track ambient light for data as well.
+Explore phone connection ideas.
